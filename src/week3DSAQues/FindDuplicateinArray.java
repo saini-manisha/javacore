@@ -6,7 +6,7 @@ T.C : O(n) Using "Hare & tortoise technique"
 S.C : O(1)
 How i identify hare & tortoise algorithm
  1. Duplicacy
- 2. traverse through indices
+ 2. traverse through indices (1<=i<=n)
 */
 
 public class FindDuplicateinArray {
